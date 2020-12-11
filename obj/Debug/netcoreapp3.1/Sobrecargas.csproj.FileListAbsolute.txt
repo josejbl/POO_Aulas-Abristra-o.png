@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.exe
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.deps.json
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.runtimeconfig.json
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.dll
+C:\Users\dev\Desktop\Sobrecargas\bin\Debug\netcoreapp3.1\Sobrecargas.pdb
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.AssemblyInfo.cs
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.dll
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.pdb
+C:\Users\dev\Desktop\Sobrecargas\obj\Debug\netcoreapp3.1\Sobrecargas.genruntimeconfig.cache
